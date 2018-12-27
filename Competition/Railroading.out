@@ -1,0 +1,22 @@
+Block 0		Train 1		Red
+Block 1		None		Yellow
+Block 2		Train 2		Red
+Block 3		None		Yellow
+Block 4		None		Green
+Block 5		Train 3		Red
+Block 6		Train 4		Red
+Block 7		None		Yellow
+Block 8		None		Green
+Block 9		Train 5		Red
+
+
+Block 0		None		Green
+Block 1		Train 2		Red
+Block 2		None		Yellow
+Block 3		Train 3		Red
+Block 4		None		Yellow
+Block 5		None		Green
+Block 6		Train 4		Red
+Block 7		Train 5		Red
+Block 8		None		Yellow
+Block 9		None		Green
